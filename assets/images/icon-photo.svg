@@ -1,0 +1,15 @@
+<svg width="84" height="64" viewBox="0 0 84 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="8" width="80" height="40" rx="4" ry="4" fill="#FFBC5E" stroke="#FFDB6E" stroke-width="3"/>
+  <rect x="6" y="12" width="72" height="32" fill="#272822" stroke="#FFDB6E" stroke-width="3"/>
+  <rect x="0" y="52" width="84" height="10" fill="#FFBC5E" stroke="#FFDB6E" stroke-width="3"/>
+
+  <!-- Code lines -->
+  <text x="10" y="20" fill="#66D9EF" font-family="monospace" font-size="5">function</text>
+  <text x="44" y="20" fill="#A6E22E" font-family="monospace" font-size="5">example()</text>
+  <text x="10" y="28" fill="#A6E22E" font-family="monospace" font-size="5">{"{"}</text>
+  <text x="16" y="36" fill="#F92672" font-family="monospace" font-size="5">console.log</text>
+  <text x="50" y="36" fill="#A6E22E" font-family="monospace" font-size="5">(</text>
+  <text x="59" y="36" fill="#E6DB74" font-family="monospace" font-size="5">"Hello, World!"</text>
+  <text x="96" y="36" fill="#A6E22E" font-family="monospace" font-size="5">)</text>
+  <text x="10" y="44" fill="#A6E22E" font-family="monospace" font-size="5">{"}"}</text>
+</svg>
